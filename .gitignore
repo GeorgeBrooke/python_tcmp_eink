@@ -88,5 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Directory files
+# Misc files
 .directory
+*.swp
